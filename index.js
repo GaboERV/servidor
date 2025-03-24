@@ -12,8 +12,8 @@ const SECRET_KEY = process.env.JWT_SECRET || "supersecreto";
 
 // Datos falsos de usuario
 const USER_FAKE = {
-  email: "gael@gmail.com",
-  password: "pass123",
+  email: "gabrie@gmail.com",
+  password: "58875887",
 };
 
 // Ruta pública
